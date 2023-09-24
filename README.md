@@ -1,7 +1,7 @@
 # Euro-Modules
 Euro Module Projects
 
-*[2HP2CV]
+*[2HP2CV] 2HP Eurorack adaptapation of CVpal, orginal design be Emille Gillet / Mutable Instruments
 
 
 
